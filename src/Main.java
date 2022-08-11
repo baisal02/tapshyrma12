@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Fish:");
         fish.setPlavnik(3);
         fish.setMass(12);
-        fish.setColor("orange");
+        fish.setColor("green");
         System.out.println("kolichestvo plavnikoov: "+fish.getPlavnik());
         System.out.println("mass: "+fish.getMass());
         System.out.println("color of fish: "+fish.getColor());
